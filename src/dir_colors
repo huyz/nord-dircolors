@@ -256,3 +256,7 @@ STICKY 04;37;44
 .vob 32
 .webm 32
 .wmv 32
+
+#+--- Special files for dev ---+
+# NOTE: unfortunately can't give special dirs their own color, or I'd add .git, .app, .workflow, .colorPicker
+.code-workspace 01;33  # VS Code
