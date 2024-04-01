@@ -147,6 +147,9 @@ STICKY 04;37;44
 .aes 01;35
 .gpg 01;35
 .pgp 01;35
+# huyz
+.age 01;35
+.enc 01;35
 
 #+--- Documents ---+
 .doc 32
